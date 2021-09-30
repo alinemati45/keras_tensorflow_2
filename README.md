@@ -14,3 +14,4 @@
 6. [Early Stopping in Practice tensorflow 2](https://github.com/alinemati45/keras_tensorflow_2/blob/main/Early%20Stopping%20in%20Practice%20tensorflow%202.ipynb)
 7. [A practical introduction to Keras Callbacks in TensorFlow 2](https://github.com/alinemati45/keras_tensorflow_2/blob/main/A%20practical%20introduction%20to%20Keras%20Callbacks%20in%20TensorFlow%202.ipynb)
 8. [Experiment Activation Function](https://github.com/alinemati45/keras_tensorflow_2/blob/main/Experiment_Activation_Functions.ipynb)
+9. [7 popular activation functions you should know in Deep Learning and how to use them with Keras and TensorFlow 2](https://github.com/alinemati45/keras_tensorflow_2/blob/main/7%20popular%20activation%20functions%20you%20should%20know%20in%20Deep%20Learning%20and%20how%20to%20use%20them%20with%20Keras%20and%20TensorFlow%202.ipynb)
