@@ -8,3 +8,4 @@
 # tensorflow2 other notes
 1. [The Google's 7 steps of Machine Learning in practice](https://github.com/alinemati45/keras_tensorflow_2/blob/main/The%20Google's%207%20steps%20of%20Machine%20Learning%20in%20practice%20.ipynb)
 2. [3 ways to create a Machine Learning model with Keras and TensorFlow 2.0 (Sequential, Functional, and Model Subclassing)](https://github.com/alinemati45/keras_tensorflow_2/blob/main/Deep%20Learning%20with%20TensorFlow%202%20and%20Keras%20CH2.ipynb) 
+3. [Model Regularization in Practice, an example with Keras and TensorFlow 2.0](https://github.com/alinemati45/keras_tensorflow_2/blob/main/Model%20Regularization%20in%20Practice%2C%20an%20example%20with%20Keras%20and%20TensorFlow%202.0.ipynb)
