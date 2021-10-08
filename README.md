@@ -1,13 +1,13 @@
 # keras_tensorflow 2
-[1. Neural Network Foundations
++ [1. Neural Network Foundations
 with TensorFlow 2.0](https://github.com/alinemati45/keras_tensorflow_2/blob/main/Deep%20Learning%20with%20TensorFlow%202%20and%20Keras%20CH1.ipynb)
-[2.TensorFlow 1.x and 2.x](https://github.com/alinemati45/keras_tensorflow_2/blob/main/Deep%20Learning%20with%20TensorFlow%202%20and%20Keras%20CH2.ipynb)
-[3.Regression](https://github.com/alinemati45/keras_tensorflow_2/blob/main/Deep%20Learning%20with%20TensorFlow%202%20and%20Keras%20CH3%20-%20Regression.ipynb)
-[4. Convolutional Neural Networks- Deep Learning with TensorFlow 2 and Keras](https://github.com/alinemati45/keras_tensorflow_2/blob/main/4.%20Convolutional%20Neural%20Networks-%20Deep%20Learning%20with%20TensorFlow%202%20and%20Keras%20.ipynb)
-[5.1 Advanced Convolutional Neural Networks](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.1%20Advanced%20Convolutional%20Neural%20Networks.ipynb)
-[5.2.Mask_R_CNN_Image_Segmentation_Demo](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.2.Mask_R_CNN_Image_Segmentation_Demo.ipynb)
-[5.3.DeepLab_Demo](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.3.DeepLab_Demo.ipynb)
-
++ [2.TensorFlow 1.x and 2.x](https://github.com/alinemati45/keras_tensorflow_2/blob/main/Deep%20Learning%20with%20TensorFlow%202%20and%20Keras%20CH2.ipynb)
++ [3.Regression](https://github.com/alinemati45/keras_tensorflow_2/blob/main/Deep%20Learning%20with%20TensorFlow%202%20and%20Keras%20CH3%20-%20Regression.ipynb)
++ [4. Convolutional Neural Networks- Deep Learning with TensorFlow 2 and Keras](https://github.com/alinemati45/keras_tensorflow_2/blob/main/4.%20Convolutional%20Neural%20Networks-%20Deep%20Learning%20with%20TensorFlow%202%20and%20Keras%20.ipynb)
++ [5.1 Advanced Convolutional Neural Networks](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.1%20Advanced%20Convolutional%20Neural%20Networks.ipynb)
++ [5.2.Mask_R_CNN_Image_Segmentation_Demo](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.2.Mask_R_CNN_Image_Segmentation_Demo.ipynb)
++ [5.3.DeepLab_Demo](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.3.DeepLab_Demo.ipynb)
++ [5.4. dogs Vs cats subset](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.4.dogsVcats_subset.ipynb)
 
 
 
