@@ -8,7 +8,7 @@ with TensorFlow 2.0](https://github.com/alinemati45/keras_tensorflow_2/blob/main
 + [5.2.Mask_R_CNN_Image_Segmentation_Demo](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.2.Mask_R_CNN_Image_Segmentation_Demo.ipynb)
 + [5.3.DeepLab_Demo](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.3.DeepLab_Demo.ipynb)
 + [5.4. dogs Vs cats subset](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.4.dogsVcats_subset.ipynb)
-+ [5.5.Transfer Learning using Inception-v3 for Image Classification]()
++ [5.5.Transfer Learning using Inception-v3 for Image Classification](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.5.Transfer%20Learning%20using%20Inception-v3%20for%20Image%20Classification.ipynb)
 
 
 
