@@ -14,6 +14,7 @@ with TensorFlow 2.0](https://github.com/alinemati45/keras_tensorflow_2/blob/main
 + [5.8. cats-or-dogs-using-cnn residual Networ](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.8.%20cats-or-dogs-using-cnn%20residual%20Network.ipynb)
 + [5.9. HighwayNets and DenseNets](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.9.%20HighwayNets%20and%20DenseNets.ipynb)
 + [5.10 Xception](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.10%20Xception.ipynb)
++ [5.11 _ deepdream](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.11%20_%20deepdream.ipynb)
 
 
 # tensorflow2 other notes
