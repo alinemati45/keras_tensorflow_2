@@ -16,6 +16,7 @@ with TensorFlow 2.0](https://github.com/alinemati45/keras_tensorflow_2/blob/main
 + [5.10 Xception](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.10%20Xception.ipynb)
 + [5.11 _ deepdream](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.11%20_%20deepdream.ipynb)
 + [5.12-deep-dream-minimal](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.12-deep-dream-minimal.ipynb)
++ [5.13 Using a CNN for sentiment analysis](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.13%20Using%20a%20CNN%20for%20sentiment%20analysis.ipynb)
 
 
 # tensorflow2 other notes
