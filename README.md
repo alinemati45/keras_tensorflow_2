@@ -24,6 +24,8 @@ with TensorFlow 2.0](https://github.com/alinemati45/keras_tensorflow_2/blob/main
 + [5.13 Using a CNN for sentiment analysis](https://github.com/alinemati45/keras_tensorflow_2/blob/main/5.13%20Using%20a%20CNN%20for%20sentiment%20analysis.ipynb)
 # Chapter 6
 + [6.1 MNIST using GAN in TensorFlow](https://github.com/alinemati45/keras_tensorflow_2/blob/main/6.1%20MNIST%20using%20GAN%20in%20TensorFlow.ipynb)
++ [6.2 Deep convolutional GAN (DCGAN)](https://github.com/alinemati45/keras_tensorflow_2/blob/main/6.2%20Deep%20convolutional%20GAN%20(DCGAN).ipynb)
+
 
 
 # Tensorflow2 other notes
